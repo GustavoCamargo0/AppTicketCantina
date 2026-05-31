@@ -1,7 +1,7 @@
-# AppTicketCatina 🎟️
+# AppTicketCantina 🎟️
 
 ## Sobre  
-O **AppTicketCatina** é um aplicativo desenvolvido com foco em gerenciamento de bilhetes dentro de um ambiente de cantina/unidade de serviços. Criado com tecnologia moderna para oferecer uma experiência simplificada de compra, controle de estoque e automação de vendas.
+O **AppTicketCantina** é um aplicativo desenvolvido com foco em gerenciamento de bilhetes dentro de um ambiente de cantina/unidade de serviços. Criado com tecnologia moderna para oferecer uma experiência simplificada de compra, controle de estoque e automação de vendas.
 
 ## Tecnologias Utilizadas  
 - **Front‑end**: React Native  
@@ -19,8 +19,8 @@ O **AppTicketCatina** é um aplicativo desenvolvido com foco em gerenciamento de
 ## Instalação & Execução  
 ```bash
 # Clone o repositório  
-git clone https://github.com/GustavoCamargo0/AppTicketCatina.git  
-cd AppTicketCatina  
+git clone https://github.com/GustavoCamargo0/AppTicketCantina.git  
+cd AppTicketCantina  
 
 # Instale as dependências  
 npm install  
