@@ -1,4 +1,4 @@
-[# AppTicketCantina 
+# AppTicketCantina 
 
 ## Sobre  
 O **AppTicketCantina** é um aplicativo desenvolvido com foco em gerenciamento de bilhetes dentro de um ambiente de cantina/unidade de serviços. Criado com tecnologia moderna para oferecer uma experiência simplificada de compra, controle de estoque e automação de vendas.
@@ -29,4 +29,4 @@ npm install
 npm run start  
 
 
-](https://github.com/GustavoCamargo0/AppTicketCantina)
+(https://github.com/GustavoCamargo0/AppTicketCantina)
