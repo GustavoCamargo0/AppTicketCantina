@@ -1,12 +1,12 @@
-# AppTicketCantina 🎟️
+[# AppTicketCantina 
 
 ## Sobre  
 O **AppTicketCantina** é um aplicativo desenvolvido com foco em gerenciamento de bilhetes dentro de um ambiente de cantina/unidade de serviços. Criado com tecnologia moderna para oferecer uma experiência simplificada de compra, controle de estoque e automação de vendas.
 
 ## Tecnologias Utilizadas  
 - **Front‑end**: React Native  
-- **Back‑end**: (descrever framework / banco de dados, se aplicável)  
-- **Serviços**: (ex: supabase, autenticação, armazenamento de imagens)  
+- **Back‑end**: Expo, PostgreSQL via Supabase
+- **Serviços**: Supabase, Supabase Auth, Expo File System
 - **Linguagens**: JavaScript
 
 ## Funcionalidades Principais  
@@ -29,3 +29,4 @@ npm install
 npm run start  
 
 
+](https://github.com/GustavoCamargo0/AppTicketCantina)
